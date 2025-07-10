@@ -6,8 +6,8 @@ A minimal and futuristic Rainmeter layout featuring music visualizers, widgets, 
 
 ## 🔧 Widgets & Skins Used
 
-### 🎵 Circular Music Visualizer  
-**ModularPlayers - Adaptive Music Widget**  
+### 🎵 Circular Music Visualizer & Adative Music Widget 
+**ModularPlayers**  
 By: *JaxOriginals*  
 🔗 [Download from DeviantArt](https://www.deviantart.com/jaxoriginals/art/ModularPlayers-Adaptive-music-widget-886577256)
 
