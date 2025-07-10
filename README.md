@@ -34,6 +34,14 @@ By: *louisly*
 
 ---
 
+## 🎨 Wallpaper
+
+**Live Manga Naruto Sharingan Minimalist**  
+By: *Steam Wallpaper Engine*  
+🔗 [Download from Steam](https://store.steampowered.com/app/431960/Wallpaper_Engine/)
+
+---
+
 ## 🔤 Font Used
 
 **Anurati Font**  
