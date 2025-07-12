@@ -4,7 +4,7 @@ OnRefreshAction=[]
 
 [Variables]
 @includeVars=#@#Vars.inc
-CacheW=1248
+CacheW=616
 CacheH=738
 
 [p.FrostedGlass]
